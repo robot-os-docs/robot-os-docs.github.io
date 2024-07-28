@@ -2,9 +2,8 @@
 layout: post
 title:  "Creating ROS2 Workspace"
 date:   2024-07-28 23:50:19 +0530
-categories: jekyll update
+categories: ros2
 ---
-# ROS2 Create Workspace Readme
 
 ## Install colcon extenstions
 

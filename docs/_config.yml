@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  robot-os-docs
 
 # Build settings
-remote_theme: just-the-docs
+theme: midnight
 plugins:
   - jekyll-feed
 color_scheme: dark

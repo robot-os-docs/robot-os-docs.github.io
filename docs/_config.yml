@@ -30,8 +30,9 @@ twitter_username: jekyllrb
 github_username:  robot-os-docs
 
 # Build settings
-theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 color_scheme: dark
 # Exclude from processing.

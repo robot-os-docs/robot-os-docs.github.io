@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  robot-os-docs
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

@@ -70,7 +70,7 @@ rclpy.shutdown()
 ```python
 import rclpy
 ```
-This imports the main ROS2 package which is used throughout the code
+This imports the main ROS2 package which is used throughout the code. It is synonymous with rospy module from ROS1.
 
 ```python
 from rclpy.node import Node

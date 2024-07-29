@@ -8,7 +8,8 @@ categories: ros2
 ### The main packages used here are:
 - rclpy
 - std_msgs
-## Where to create the node?
+
+### Where to create the node?
 The node is created in the folder with the package name created inside the package. This is relatively different from creating a scripts folder as we do in ROS1.
 
 From the src folder, if we have a package named talker-listener, to create the file pub.py, we use
